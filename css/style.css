@@ -27,3 +27,8 @@ input {
 .list {
   list-style:none;
 }
+
+
+#login-form input[type=submit] {
+  width: 100px;
+}
