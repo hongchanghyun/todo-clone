@@ -1,0 +1,29 @@
+.hidden {
+  display: none;
+}
+
+body {
+  text-align: center;
+  font-size: xx-large;
+  color: white;
+}
+
+#clock {
+  
+  margin-top: 100px;
+}
+
+input {
+  width: 40%;
+  height: 30px;
+}
+
+.btn {
+  position: relative;
+  left: 5px;
+  bottom: 5px;
+}
+
+.list {
+  list-style:none;
+}
